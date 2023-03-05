@@ -1,11 +1,5 @@
-Die hier vorliegenden Dateien sind eine Weiterentwicklung der Dateien, die im Repository "AlgorithmischeBewertungVonOPNVNetzen" vorliegen.
+Die hier vorliegenden Dateien sind eine Weiterentwicklung der Dateien, die im Repository "AlgorithmischeBewertungVonOPNVNetzen" vorliegen. Die schriftliche Einsendung für den Wettbewerb "Jugend forscht" ist angefügt, die darin enthaltenen Netztypen, Untersuchungen und Ergebnisse wurden inzwischen aber überarbeitet und sind daher nicht mehr aktuell.
 
-Der Ordner "Eingabedateien" enthält die Eingabedateien, mit denen die in der schriftlichen Arbeit beschriebenen Experimente durchgeführt wurden. Der Dateiname weist auf die Art des enthaltenen Netzes hin.
+Der Ordner "programmDateien" enthält die Quelltexte für ein Programm, das je nach Eingabe verschiedene Netztypen visualisiert oder diese durch das Bewerten randomisiert generierter Städte miteinander vergleicht. Zum Visualisieren wird auch die Datei "buslinesVisualize.py" benötigt.
 
-Der Ordner "Ausgabedateien" enthält die entsprechenden Ausgabedateien. Der Name der Ausgabedatei ist der der dazugehörigen Eingabedatei, wobei lediglich "input" durch "output" ersetzt wurde.
-
-Der Ordner "Kennzahlenermittler" enthält als C++-Quelltext das Programm, mit dem die Kennzahlen eines in einer Eingabedatei gespeicherten ÖPNV-Netzes ermittelt werden.
-
-Der Ordner "EingabeGenerator" enhtält als Quelltext das Programm, mit dem die Beispieleingaben generiert wurden. Um den Typ des erzeugten Netzes zu ändern, muss im Quelltext die Konstante "kind" angepasst werden. Außerdem sind verschiedenen Python-Skripte enthalten, die verschiedenene (auskommentierte) Debug- Ausgaben visualisieren.
-
-Es sind auch Netztypen enthalten, die in der schriftlichen Arbeit noch nicht vorkommen.
+Die daraus resultierenden Abbildungen von Netztypen werden im Ordner "Visualize" gespeichert, die Ausgabe der Kriterien bei einer Stichprobengröße von 100 Städten pro Netztyp im Ordner "Ergebnisse".
