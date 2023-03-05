@@ -1,0 +1,48 @@
+Durchschnittswerte der Kriterien ueber 100 Staedte des Typs radial:
+
+SNV: 3.97074603085473
+BTA: 3.72499999999999
+VSM: 152.133768712591
+
+Durchschnittswerte der Kriterien ueber 100 Staedte des Typs spider:
+
+SNV: 2.45601224322421
+BTA: 5.99299999999998
+VSM: 92.4074543251054
+
+Durchschnittswerte der Kriterien ueber 100 Staedte des Typs mst:
+
+SNV: 3.94806202432059
+BTA: 3.72499999999999
+VSM: 31.559511822636
+
+Durchschnittswerte der Kriterien ueber 100 Staedte des Typs 3connect:
+
+SNV: 2.69735342414419
+BTA: 7.16275000000004
+VSM: 20.7127799043125
+
+Durchschnittswerte der Kriterien ueber 100 Staedte des Typs 4connect:
+
+SNV: 2.01883332426922
+BTA: 9.32150000000007
+VSM: 12.6186629357081
+
+Durchschnittswerte der Kriterien ueber 100 Staedte des Typs 5connect:
+
+SNV: 1.74729258186724
+BTA: 11.4680000000001
+VSM: 9.28269489255143
+
+Durchschnittswerte der Kriterien ueber 100 Staedte des Typs tcRadial:
+
+SNV: 4.00855297987276
+BTA: 3.8
+VSM: 172.290511174509
+
+Durchschnittswerte der Kriterien ueber 100 Staedte des Typs tcSpider:
+
+SNV: 2.53337694815327
+BTA: 6.03749999999998
+VSM: 72.587723664289
+
